@@ -1,2 +1,3 @@
 My first git command
 
+MY second line
